@@ -12,10 +12,10 @@
     "revision": "cm-11.0"
   },
   {
-    "remote": "cm",
-    "repository": "android_kernel_motorola_msm8960dt-common",
+    "remote": "ose",
+    "repository": "kernel_motorola_msm8960dt-common",
     "target_path": "kernel/motorola/msm8960dt-common",
-    "revision": "cm-11.0"
+    "revision": "ose"
   },
   {
     "remote": "cm",
