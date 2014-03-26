@@ -40,11 +40,5 @@
     "repository": "proprietary_vendor_motorola",
     "target_path": "vendor/motorola",
     "revision": "cm-11.0"
-  },
-  {
-    "remote": "cm",
-    "repository": "android_external_f2fs-tools",
-    "target_path": "external/f2fs-tools",
-    "revision": "cm-11.0"
   }
 ]
