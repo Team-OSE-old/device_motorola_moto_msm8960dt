@@ -95,3 +95,6 @@ BOARD_RECOVERY_SWIPE := true
 DEVICE_RESOLUTION := 720x1280
 TW_BRIGHTNESS_PATH := /sys/class/backlight/lcd-backlight/brightness
 TW_MAX_BRIGHTNESS := 126
+
+# Power
+TARGET_POWERHAL_VARIANT := qcom
