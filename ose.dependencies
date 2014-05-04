@@ -6,10 +6,10 @@
     "revision": "cm-11.0"
   },
   {
-    "remote": "cm",
-    "repository": "android_device_motorola_qcom-common",
+    "remote": "slim",
+    "repository": "device_motorola_qcom-common",
     "target_path": "device/motorola/qcom-common",
-    "revision": "cm-11.0"
+    "revision": "kk4.4"
   },
   {
     "remote": "ose",
