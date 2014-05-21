@@ -1,9 +1,9 @@
 [
   {
-    "remote": "cm",
-    "repository": "android_device_qcom_common",
+    "remote": "ose",
+    "repository": "device_qcom_common",
     "target_path": "device/qcom/common",
-    "revision": "cm-11.0"
+    "revision": "ose"
   },
   {
     "remote": "ls",
