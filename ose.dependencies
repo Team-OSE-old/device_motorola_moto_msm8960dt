@@ -12,10 +12,10 @@
     "revision": "kitkat"
   },
   {
-    "remote": "ose",
-    "repository": "kernel_motorola_msm8960dt-common",
+    "remote": "gh",
+    "repository": "ValidusAOSP/GhostKernel_MotoX",
     "target_path": "kernel/motorola/msm8960dt-common",
-    "revision": "ose"
+    "revision": "master"
   },
   {
     "remote": "tm",
