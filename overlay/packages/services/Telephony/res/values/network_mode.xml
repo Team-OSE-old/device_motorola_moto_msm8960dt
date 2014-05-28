@@ -16,7 +16,7 @@
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-<string-array name="preferred_network_mode_choices_cm">
+<string-array name="preferred_network_mode_choices_slim">
         <item>LTE</item>
         <item>Global</item>
         <item>CDMA + LTE/EvDo</item>
