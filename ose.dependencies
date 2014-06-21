@@ -13,9 +13,9 @@
   },
   {
     "remote": "gh",
-    "repository": "ValidusAOSP/GhostKernel_MotoX",
+    "repository": "GzRoms-Redux/android_kernel_motorola_msm8960dt-common",
     "target_path": "kernel/motorola/msm8960dt-common",
-    "revision": "master"
+    "revision": "kitkat"
   },
   {
     "remote": "tm",
