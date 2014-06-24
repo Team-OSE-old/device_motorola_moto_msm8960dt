@@ -104,3 +104,14 @@ TW_MAX_BRIGHTNESS := 126
 
 # Power
 TARGET_POWERHAL_VARIANT := qcom
+
+#MultiROM config. MultiROM also uses parts of TWRP config
+MR_INPUT_TYPE := type_b
+MR_INIT_DEVICES := device/motorola/moto_msm8960dt/mr_init_devices.c
+MR_RD_ADDR := 0x82500000
+MR_DPI := xhdpi
+MR_FSTAB := device/motorola/moto_msm8960dt/twrp.fstab
+MR_KEXEC_MEM_MIN := 0x85000000
+MR_INFOS := device/motorola/moto_msm8960dt/mrom_infos
+MR_DEVICE_RECOVERY_HOOKS := device/motorola/moto_msm8960dt/mr_hooks_recovery.c
+MR_DEVICE_RECOVERY_HOOKS_VER := 1
