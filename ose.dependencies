@@ -12,10 +12,10 @@
     "revision": "kitkat"
   },
   {
-    "remote": "gh",
-    "repository": "GzRoms-Redux/android_kernel_motorola_msm8960dt-common",
+    "remote": "ose",
+    "repository": "android_kernel_motorola_msm8960dt-common",
     "target_path": "kernel/motorola/msm8960dt-common",
-    "revision": "kitkat"
+    "revision": "ose"
   },
   {
     "remote": "tm",
