@@ -1,15 +1,15 @@
 [
   {
-    "remote": "gh",
-    "repository": "Liquidsmooth-devices/android_device_qcom_common",
+    "remote": "slim",
+    "repository": "device_qcom_common",
     "target_path": "device/qcom/common",
-    "revision": "kitkat"
+    "revision": "kk4.4"
   },
   {
-    "remote": "gh",
-    "repository": "Liquidsmooth-devices/android_device_motorola_qcom-common",
+    "remote": "slim",
+    "repository": "device_motorola_qcom-common",
     "target_path": "device/motorola/qcom-common",
-    "revision": "kitkat"
+    "revision": "kk4.4"
   },
   {
     "remote": "ose",
