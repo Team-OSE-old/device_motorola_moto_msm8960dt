@@ -1,26 +1,22 @@
 [
   {
-    "remote": "slim",
-    "repository": "device_qcom_common",
+    "repository": "SlimRoms/device_qcom_common",
     "target_path": "device/qcom/common",
-    "revision": "kk4.4"
+    "branch": "kk4.4"
   },
   {
-    "remote": "slim",
-    "repository": "device_motorola_qcom-common",
+    "repository": "SlimRoms/device_motorola_qcom-common",
     "target_path": "device/motorola/qcom-common",
-    "revision": "kk4.4"
+    "branch": "kk4.4"
   },
   {
-    "remote": "ose",
-    "repository": "android_kernel_motorola_msm8960dt-common",
+    "repository": "Team-OSE/android_kernel_motorola_msm8960dt-common",
     "target_path": "kernel/motorola/msm8960dt-common",
-    "revision": "ose"
+    "branch": "ose"
   },
   {
-    "remote": "tm",
-    "repository": "proprietary_vendor_motorola",
+    "repository": "TheMuppets/proprietary_vendor_motorola",
     "target_path": "vendor/motorola",
-    "revision": "cm-11.0"
+    "branch": "cm-11.0"
   }
 ]
