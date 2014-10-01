@@ -1,11 +1,11 @@
 [
   {
-    "repository": "SlimRoms/device_qcom_common",
+    "repository": "TEAM-Gummy/android_device_qcom_common",
     "target_path": "device/qcom/common",
     "branch": "kk4.4"
   },
   {
-    "repository": "SlimRoms/device_motorola_qcom-common",
+    "repository": "TEAM-Gummy/android_device_motorola_qcom-common",
     "target_path": "device/motorola/qcom-common",
     "branch": "kk4.4"
   },
@@ -15,8 +15,8 @@
     "branch": "ose"
   },
   {
-    "repository": "TheMuppets/proprietary_vendor_motorola",
+    "repository": "TEAM-Gummy/proprietary_vendor_motorola",
     "target_path": "vendor/motorola",
-    "branch": "cm-11.0"
+    "branch": "kk4.4"
   }
 ]
